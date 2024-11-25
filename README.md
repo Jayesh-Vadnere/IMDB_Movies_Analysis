@@ -1,5 +1,5 @@
 # IMDB_Movies_Analysis
-
+![](IMDb_logo.PNG)
 
 ## Description:
 The dataset provided is related to IMDB Movies.
@@ -11,7 +11,8 @@ You might also want to consider the year of release, the actors involved, and ot
 
 A. Movie Genre Analysis: Analyze the distribution of movie genres and their impact on the IMDB score.
 Task: Determine the most common genres of movies in the dataset. Then, for each genre, calculate descriptive statistics (mean, median, mode, range, variance, standard deviation) of the IMDB scores.
-
+![](A1.PNG)
+![](A2.PNG)
 Insights:
 • Drama is the most popular genre having applied to 2452 movies and has average rating of 6.7.
 • News is the least popular genre having applied to only 3 movies and has average rating 7.5.
@@ -20,7 +21,7 @@ Insights:
 
 B. Movie Duration Analysis: Analyze the distribution of movie durations and its impact on the IMDB score.
 Task: Analyze the distribution of movie durations and identify the relationship between movie duration and IMDB score.
-
+![](B.PNG)
 Insights:
 • Average rating slightly increases as the duration increases
 • When duration is 65 minutes rating is 9.5 which is maximum.
@@ -29,20 +30,21 @@ Insights:
 
 C. Language Analysis: Situation: Examine the distribution of movies based on their language.
 Task: Determine the most common languages used in movies and analyze their impact on the IMDB score using descriptive statistics.
-
+![](C1.PNG)
+![](C2.PNG)
 Insights:
 • English is the most popular language used in 4488 movies having average ratings of 6.4.
 • Lowest rating is also given to English movie which is 1.6 and highest rating is also given to English movie which is 9.5
 
 D. Director Analysis: Influence of directors on movie ratings.
 Task: Identify the top directors based on their average IMDB score and analyze their contribution to the success of movies using percentile calculations.
-
+![](D.PNG)
 Insights:
 • Top director is John Blanchard with average imdb ratings of 9.5
 
 E. Budget Analysis: Explore the relationship between movie budgets and their financial success.
 Task: Analyze the correlation between movie budgets and gross earnings, and identify the movies with the highest profit margin.
-
+![](E.PNG)
 Insights:
 • Correlation is near to 0 than to 1, hence weak linear correlation between budget and gross.
 • AvatarÂ has the highest profit of 523505847.
