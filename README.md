@@ -89,7 +89,6 @@ E. Budget Analysis: Explore the relationship between movie budgets and their fin
 Task: Analyze the correlation between movie budgets and gross earnings, and identify the movies with the highest profit margin.
 
 ![](E0.PNG)
-
 ![](E.PNG)
 
 Correlation between gross and budget is calculated using correl() function.
