@@ -78,6 +78,9 @@ Task: Identify the top directors based on their average IMDB score and analyze t
 ![](D1.PNG)
 
 Percentile rank and percentile is calculated to know the influence of directors on movie ratings.
+Untick Generate GetPivotData is used when we create a formula that references a cell inside a pivot table.
+Deactivate get pivot data: click on pivot table > PivotTable Analyze > Pivot Table > Options > Untick Generate GetPivotData 
+
 
 ![](D2.PNG)
 
