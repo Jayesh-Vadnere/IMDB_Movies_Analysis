@@ -84,8 +84,8 @@ Percentile rank and percentile is calculated to know the influence of directors 
 ![](D3.PNG)
 
 Insights:<br/>
-• Top director is John Blanchard with average imdb ratings of 9.5
-• John Blanchard is the top director. If a movie directed by John Blanchard then it is likely to get the highest IMDB rating.
+• Top director is John Blanchard with average imdb ratings of 9.5<br/>
+• John Blanchard is the top director. If a movie directed by John Blanchard then it is likely to get the highest IMDB rating.<br/>
 • Similarly, if a movie is directed by Carry Bell then it is likely to get higher rating than 99.70 % of the movies.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
