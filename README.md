@@ -1,5 +1,5 @@
 # IMDB_Movies_Analysis
-![](IMDb_logo.PNG)
+                                                    ![](IMDb_logo.PNG)
 
 ## Description:
 The dataset provided is related to IMDB.
@@ -66,7 +66,9 @@ Insights:
 
 D. Director Analysis: Influence of directors on movie ratings.
 Task: Identify the top directors based on their average IMDB score and analyze their contribution to the success of movies using percentile calculations.
+
 ![](D0.PNG)
+
 ![](D01.PNG)
 
 Percentile rank and percentile is calculated to know the influence of directors on movie ratings.
@@ -78,13 +80,18 @@ Insights:
 
 E. Budget Analysis: Explore the relationship between movie budgets and their financial success.
 Task: Analyze the correlation between movie budgets and gross earnings, and identify the movies with the highest profit margin.
+
 ![](E0.PNG)
+
 ![](E.PNG)
+
 Correlation between gross and budget is calculated using correl() function.
+
 ![](E01.PNG)
+
 max() function is used to caculate the highest profit and xlookup() is used to calculate the name of highest profit movie.
 
 Insights:
-• Correlation is near to 0 than to 1, hence weak linear correlation between budget and gross.
+• Correlation is near to 0 than to 1, hence weak linear correlation between budget and gross.<br/>
 • AvatarÂ has the highest profit of 523505847.
 
