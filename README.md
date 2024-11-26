@@ -1,5 +1,5 @@
 # IMDB_Movies_Analysis
-                                                    ![](IMDb_logo.PNG)
+!                                                    [](IMDb_logo.PNG)
 
 ## Description:
 The dataset provided is related to IMDB.
