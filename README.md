@@ -75,14 +75,18 @@ Task: Identify the top directors based on their average IMDB score and analyze t
 
 ![](D0.PNG)
 
-![](D01.PNG)
+![](D1.PNG)
 
 Percentile rank and percentile is calculated to know the influence of directors on movie ratings.
 
-![](D.PNG)
+![](D2.PNG)
+
+![](D3.PNG)
 
 Insights:<br/>
 • Top director is John Blanchard with average imdb ratings of 9.5
+• John Blanchard is the top director. If a movie directed by John Blanchard then it is likely to get the highest IMDB rating.
+• Similarly, if a movie is directed by Carry Bell then it is likely to get higher rating than 99.70 % of the movies.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 E. Budget Analysis: Explore the relationship between movie budgets and their financial success.
