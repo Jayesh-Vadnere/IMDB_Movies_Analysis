@@ -1,5 +1,5 @@
 # IMDB_Movies_Analysis
-![](IMDb_logo.PNG)                                                    
+![](Excel/IMDb_logo.PNG)                                                    
 
 ## Description:
 The dataset provided is related to IMDB.
@@ -32,12 +32,12 @@ Here, we will explore the data to understand the relationships between different
 Analyze the distribution of movie genres and their impact on the IMDB score.
 Task: Determine the most common genres of movies in the dataset. Then, for each genre, calculate descriptive statistics (mean, median, mode, range, variance, standard deviation) of the IMDB scores.
 
-![](A0.PNG)
+![](Excel/A0.PNG)
 
 Here, Number of movies respective to the genres are calculated using power query. And mean, median, mode, range, variance, standard deviation are calculated using standard formulae.
 
-![](A1.PNG)
-![](A2.PNG)
+![](Excel/A1.PNG)
+![](Excel/A2.PNG)
 
 ## Insights:<br/>
 • Drama is the most popular genre having applied to 2452 movies and has average rating of 6.7.<br/>
@@ -50,7 +50,7 @@ Here, Number of movies respective to the genres are calculated using power query
 Analyze the distribution of movie durations and its impact on the IMDB score.
 Task: Analyze the distribution of movie durations and identify the relationship between movie duration and IMDB score.
 
-![](B.PNG)
+![](Excel/B.PNG)
 
 Here, scatter plot is plotted between movie duration and IMDB score.
 
@@ -65,8 +65,8 @@ Here, scatter plot is plotted between movie duration and IMDB score.
 Examine the distribution of movies based on their language.
 Task: Determine the most common languages used in movies and analyze their impact on the IMDB score using descriptive statistics.
 
-![](C1.PNG)
-![](C2.PNG)
+![](Excel/C1.PNG)
+![](Excel/C2.PNG)
 
 Bar chart is plotted to see the most popular movie language.
 
@@ -79,18 +79,18 @@ Bar chart is plotted to see the most popular movie language.
 Influence of directors on movie ratings.
 Task: Identify the top directors based on their average IMDB score and analyze their contribution to the success of movies using percentile calculations.
 
-![](D0.PNG)
+![](Excel/D0.PNG)
 
-![](D1.PNG)
+![](Excel/D1.PNG)
 
 Percentile rank and percentile is calculated to know the influence of directors on movie ratings.
 Untick Generate GetPivotData is used when we create a formula that references a cell inside a pivot table.
 Deactivate get pivot data: click on pivot table > PivotTable Analyze > Pivot Table > Options > Untick Generate GetPivotData 
 
 
-![](D2.PNG)
+![](Excel/D2.PNG)
 
-![](D3.PNG)
+![](Excel/D3.PNG)
 
 ## Insights:<br/>
 • Top director is John Blanchard with average imdb ratings of 9.5<br/>
@@ -102,12 +102,12 @@ Deactivate get pivot data: click on pivot table > PivotTable Analyze > Pivot Tab
 Explore the relationship between movie budgets and their financial success.
 Task: Analyze the correlation between movie budgets and gross earnings, and identify the movies with the highest profit margin.
 
-![](E0.PNG)
-![](E.PNG)
+![](Excel/E0.PNG)
+![](Excel/E.PNG)
 
 Correlation between gross and budget is calculated using correl() function.
 
-![](E01.PNG)
+![](Excel/E01.PNG)
 
 max() function is used to caculate the highest profit and xlookup() is used to calculate the name of highest profit movie.
 
